@@ -1,0 +1,81 @@
+---
+title: "Lab 01: Introduction to R"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: labs2316::lab_report
+---
+  
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Load package libraries
+library(tidyverse)
+library(devtools)
+library(labs2316)
+```
+
+* * *
+  
+```{r}
+data(arbuthnot)
+```
+
+
+### Exercise 1: 
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+### Exercise 2:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 3:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 4:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+
+### Exercise 5:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 6:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 7:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
